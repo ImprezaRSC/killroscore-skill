@@ -5,8 +5,9 @@ This skill turns off roscore and all listening nodes that started with roscore
 This skill terminates roscore
 
 ## Examples
- - "Kill ross core"
- - "Ross off"
+ - Stop turtle
+ - Kill ross
+ - Stop roscore
 
 
 ## Credits
