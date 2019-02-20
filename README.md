@@ -1,11 +1,12 @@
 ## Killroscore
-This skill turns off roscore and all listening nodes sthat started with roscore
+This skill turns off roscore and all listening nodes that started with roscore
 
 ## Description
-See above
+This skill terminates roscore
 
 ## Examples
  - "Kill ross core"
+ - "Ross off"
 
 
 ## Credits
